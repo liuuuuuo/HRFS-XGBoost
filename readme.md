@@ -190,8 +190,11 @@ Based on the implementation, HRFS-XGBoost should demonstrate:
 
 ## 👥 Authors
 
-Network Intrusion Detection Research Project
+- Liu
+- Jiang
+- Wang
 
 ## 📄 License
+
 
 This project is for academic research purposes.
